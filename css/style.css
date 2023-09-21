@@ -78,7 +78,7 @@ div{
     border-top:none;
 }
 
-.yellow p{
+.yellow h2,p{
     color:#707070;
 }
 
@@ -103,6 +103,7 @@ footer > p{
     padding-top:  15px; 
     padding-right: 15px;
     padding-bottom: 15px;
+    padding-left:none;
 }
 
 
